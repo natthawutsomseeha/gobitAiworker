@@ -16,7 +16,7 @@ function homeView(){
   <div class="main-container">
     <section class="card hero">
       <div class="left">
-        <h1>หาที่ฝึกงาน</h1>
+        <h1>หาที่ฝึกงานจริงไม่บิดครับ</h1>
         <p>ค้นหาที่ฝึกงานสำหรับนักศึกษาสาขาคอมพิวเตอร์และสารสนเทศ</p>
 
         <div class="searchbar">
